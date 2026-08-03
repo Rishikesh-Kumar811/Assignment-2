@@ -16,7 +16,7 @@
   <br />
 
   <a href="https://assignment-2-one-lime.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_CLICK_HERE_TO_VIEW_LIVE_WEBSITE-0052FF?style=for-the-badge&logoColor=white" alt="View Live" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=20&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=350&height=55&lines=🚀+View+Live+Website;✨+Click+Here+To+Preview;⚡+Lightning+Fast+Speed" alt="View Live" />
   </a>
 
 </div>
