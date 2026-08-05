@@ -2,9 +2,9 @@
   <h2>🚀 Assignment 2</h2>
   <p><strong>A Modern, Highly Responsive Frontend Project</strong></p>
   <p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/Responsive-UI%2FUX-8b5cf6?style=for-the-badge&logo=figma&logoColor=white" alt="Responsive" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/Responsive-UI%2FUX-8b5cf6?style=flat&logo=figma&logoColor=white" alt="Responsive" />
   </p>
 </div>
 
