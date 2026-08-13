@@ -6,8 +6,8 @@
   <br />
 
   <div align="center">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" height="30" /> &nbsp;
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" height="30" />
+    <img src="https://badgen.net/badge/icon/HTML5?icon=html5&color=E34F26" alt="HTML5" height="28" /> &nbsp;
+    <img src="https://badgen.net/badge/icon/CSS3?icon=css3&color=1572B6" alt="CSS3" height="28" />
   </div>
   
 </div>
@@ -59,5 +59,5 @@ npm run dev
 <div align="center">
   <i>Engineered with focus and precision.</i> <br/>
   <br/>
-  <img src="https://img.shields.io/badge/Built_with-Love-ff69b4?style=flat" height="32" />
+  <img src="https://badgen.net/badge/Built%20with/Love/ff69b4?icon=heart" height="28" />
 </div>
