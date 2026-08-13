@@ -14,11 +14,15 @@ A production-grade e-commerce product page for "Astro Winter Armor II" featuring
 
 </div>
 
+<br/>
+
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css" alt="Tech Stack" />
 </p>
+
+<br/>
 
 <h2 align="center">✨ Features</h2>
 
@@ -30,9 +34,13 @@ A production-grade e-commerce product page for "Astro Winter Armor II" featuring
 | 🛍️ **Interactive Product UI** | Size selector, color chips, quantity control & gallery layout |
 | 📐 **BEM-Styled CSS Architecture** | Modular, maintainable class naming convention throughout |
 
+<br/>
+
 <h2 align="center">🏗️ Architecture</h2>
 
 > SEO & Schema-engineered product architecture with BEM-styled modular CSS and semantic HTML5 document structure.
+
+<br/>
 
 <h2 align="center">🚀 Quick Start</h2>
 
@@ -43,6 +51,8 @@ git clone https://github.com/Rishikesh-Kumar811/Assignment-2.git
 # Open in browser
 cd Assignment-2 && open index.html
 \`\`\`
+
+<br/>
 
 <div align="center">
 
