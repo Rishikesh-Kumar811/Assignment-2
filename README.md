@@ -24,7 +24,7 @@ A production-grade e-commerce product page for "Astro Winter Armor II" featuring
 
 <br/>
 
-<h3 align="center">🛠️ Tech Stack</h3>
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css" alt="Tech Stack" />
@@ -44,13 +44,13 @@ A production-grade e-commerce product page for "Astro Winter Armor II" featuring
 
 <br/>
 
-<h3 align="center">🏗️ Architecture</h3>
+<h2 align="center">🏗️ Architecture</h2>
 
 > SEO & Schema-engineered product architecture with BEM-styled modular CSS and semantic HTML5 document structure.
 
 <br/>
 
-<h3 align="center">🚀 Quick Start</h3>
+<h2 align="center">🚀 Quick Start</h2>
 
 \`\`\`bash
 # Clone the repository
