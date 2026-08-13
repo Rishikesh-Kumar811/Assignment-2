@@ -2,7 +2,7 @@
 
 <br/>
 
-# 🛍️ E-Commerce Product Page
+<h1>🛍️ E-Commerce Product Page</h1>
 
 ### SEO-Optimized Product Landing with Schema.org Rich Results
 
