@@ -62,13 +62,7 @@ cd Assignment-2 && open index.html
 
 <br/>
 
-**[⬆ Back to Top](#e-commerce-product-page)**
-
-<br/>
-
-<a href="https://github.com/Rishikesh-Kumar811/Assignment-2/stargazers"><img src="https://img.shields.io/github/stars/Rishikesh-Kumar811/Assignment-2?style=for-the-badge&color=f5a623&label=Star%20this%20Repo" alt="Stars" /></a>
-
-<sub>Built with ♥ by <a href="https://github.com/Rishikesh-Kumar811">Rishikesh</a></sub>
+<h3>Built with ❤️ by <a href="https://github.com/Rishikesh-Kumar811">Rishikesh</a></h3>
 
 </div>
 
