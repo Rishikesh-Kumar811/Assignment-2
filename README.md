@@ -32,7 +32,7 @@ A production-grade e-commerce product page for "Astro Winter Armor II" featuring
 
 <br/>
 
-<h3 align="center">✨ Features</h3>
+<h2 align="center">✨ Features</h2>
 
 | 🎯 Core Feature | ✨ Technical Implementation |
 | :--- | :--- |
