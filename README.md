@@ -1,9 +1,4 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/-Web%20Development%20Essentials-4f46e5?style=for-the-badge" alt="Banner Badge" />
-  
-  <br />
-  <br />
-
   # 🌟 Web Development Essentials
   **Clean code and structural best practices.** <br/>
   A foundational assignment focusing on semantic HTML and maintainable CSS architecture.
@@ -11,8 +6,8 @@
   <br />
 
   <div align="center">
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> &nbsp;
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" /> &nbsp;
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
   </div>
   
 </div>
@@ -22,7 +17,7 @@
 ## 📸 Visuals & Live Demo
 *(Placeholder: Insert a beautiful screenshot or GIF of the UI here to demonstrate the application working in a production environment).*
 
-> **[View Live Demo](#) | [Report Bug](#) | [Request Feature](#)**
+> **[View Live Demo](https://assignment-2-one-lime.vercel.app) | [Report Bug](https://github.com/Rishikesh-Kumar811/Assignment-2/issues) | [Request Feature](https://github.com/Rishikesh-Kumar811/Assignment-2/issues)**
 
 ---
 
@@ -63,5 +58,5 @@ npm run dev
 
 <div align="center">
   <i>Engineered with focus and precision.</i> <br/>
-  <img src="https://img.shields.io/badge/-Built_with_Love-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Built_with-Love-ff69b4?style=flat" />
 </div>
