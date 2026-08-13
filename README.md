@@ -22,13 +22,17 @@ A production-grade e-commerce product page for "Astro Winter Armor II" featuring
 
 </div>
 
-## 🛠️ Tech Stack
+<br/>
+
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css" alt="Tech Stack" />
 </p>
 
-## ✨ Features
+<br/>
+
+<h2 align="center">✨ Features</h2>
 
 - 🔍 **Schema.org JSON-LD** — Embedded Product microdata enabling Google Rich Result snippets (Price: $560 USD)
 - 🔗 **Open Graph & Twitter Cards** — Full social metadata for beautiful link previews on every platform
@@ -36,11 +40,15 @@ A production-grade e-commerce product page for "Astro Winter Armor II" featuring
 - 🛍️ **Interactive Product UI** — Size selector, color chips, quantity control & gallery layout
 - 📐 **BEM-Styled CSS Architecture** — Modular, maintainable class naming convention throughout
 
-## 🏗️ Architecture
+<br/>
+
+<h2 align="center">🏗️ Architecture</h2>
 
 > SEO & Schema-engineered product architecture with BEM-styled modular CSS and semantic HTML5 document structure.
 
-## 🚀 Quick Start
+<br/>
+
+<h2 align="center">🚀 Quick Start</h2>
 
 \`\`\`bash
 # Clone the repository
@@ -49,6 +57,8 @@ git clone https://github.com/Rishikesh-Kumar811/Assignment-2.git
 # Open in browser
 cd Assignment-2 && open index.html
 \`\`\`
+
+<br/>
 
 <div align="center">
 
