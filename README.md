@@ -1,16 +1,10 @@
 <div align="center">
 
-<br/><br/>
-
 <h1>🛍️ E-Commerce Product Page</h1>
 
 ### SEO-Optimized Product Landing with Schema.org Rich Results
 
-<br/>
-
 A production-grade e-commerce product page for "Astro Winter Armor II" featuring Schema.org JSON-LD structured data, Open Graph meta tags, and an embedded SVG sprite icon system.
-
-<br/><br/>
 
 <p align="center">
   <a href="https://assignment-2-one-lime.vercel.app"><img src="https://img.shields.io/badge/▶_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>&nbsp;
@@ -18,19 +12,13 @@ A production-grade e-commerce product page for "Astro Winter Armor II" featuring
   <a href="https://github.com/Rishikesh-Kumar811/Assignment-2/issues"><img src="https://img.shields.io/badge/Request_Feature-8B5CF6?style=for-the-badge" alt="Request Feature" /></a>
 </p>
 
-<br/>
-
 </div>
-
-<br/>
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css" alt="Tech Stack" />
 </p>
-
-<br/>
 
 <h2 align="center">✨ Features</h2>
 
@@ -42,13 +30,9 @@ A production-grade e-commerce product page for "Astro Winter Armor II" featuring
 | 🛍️ **Interactive Product UI** | Size selector, color chips, quantity control & gallery layout |
 | 📐 **BEM-Styled CSS Architecture** | Modular, maintainable class naming convention throughout |
 
-<br/>
-
 <h2 align="center">🏗️ Architecture</h2>
 
 > SEO & Schema-engineered product architecture with BEM-styled modular CSS and semantic HTML5 document structure.
-
-<br/>
 
 <h2 align="center">🚀 Quick Start</h2>
 
@@ -60,11 +44,7 @@ git clone https://github.com/Rishikesh-Kumar811/Assignment-2.git
 cd Assignment-2 && open index.html
 \`\`\`
 
-<br/>
-
 <div align="center">
-
-<br/>
 
 <h3>Built with ❤️ by <a href="https://github.com/Rishikesh-Kumar811">Rishikesh</a></h3>
 
