@@ -34,11 +34,13 @@ A production-grade e-commerce product page for "Astro Winter Armor II" featuring
 
 <h2 align="center">✨ Features</h2>
 
-- 🔍 **Schema.org JSON-LD** — Embedded Product microdata enabling Google Rich Result snippets (Price: $560 USD)
-- 🔗 **Open Graph & Twitter Cards** — Full social metadata for beautiful link previews on every platform
-- 🎨 **SVG Sprite Icon System** — Inline `<svg><defs>` icon repository for crisp scalable rendering
-- 🛍️ **Interactive Product UI** — Size selector, color chips, quantity control & gallery layout
-- 📐 **BEM-Styled CSS Architecture** — Modular, maintainable class naming convention throughout
+| 🎯 Core Feature | ✨ Technical Implementation |
+| :--- | :--- |
+| 🔍 **Schema.org JSON-LD** | Embedded Product microdata enabling Google Rich Result snippets (Price: $560 USD) |
+| 🔗 **Open Graph & Twitter Cards** | Full social metadata for beautiful link previews on every platform |
+| 🎨 **SVG Sprite Icon System** | Inline `<svg><defs>` icon repository for crisp scalable rendering |
+| 🛍️ **Interactive Product UI** | Size selector, color chips, quantity control & gallery layout |
+| 📐 **BEM-Styled CSS Architecture** | Modular, maintainable class naming convention throughout |
 
 <br/>
 
