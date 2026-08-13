@@ -1,63 +1,69 @@
 <div align="center">
-  # 🌟 Web Development Essentials
-  **Clean code and structural best practices.** <br/>
-  A foundational assignment focusing on semantic HTML and maintainable CSS architecture.
-  
-  <br />
 
-  <div align="center">
-    <img src="https://badgen.net/badge/HTML5/%20/E34F26?icon=html5&labelColor=E34F26" alt="HTML5" height="36" /> &nbsp;
-    <img src="https://badgen.net/badge/CSS3/%20/1572B6?icon=css3&labelColor=1572B6" alt="CSS3" height="36" />
-  </div>
-  
+<br/>
+
+# E-Commerce Product Page
+
+### SEO-Optimized Product Landing with Schema.org Rich Results
+
+<br/>
+
+A production-grade e-commerce product page for "Astro Winter Armor II" featuring Schema.org JSON-LD structured data, Open Graph meta tags, and an embedded SVG sprite icon system.
+
+<br/>
+
+<p align="center">
+  <a href="https://assignment-2-one-lime.vercel.app"><img src="https://img.shields.io/badge/▶_LIVE_DEMO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>&nbsp;
+  <a href="https://github.com/Rishikesh-Kumar811/Assignment-2/issues"><img src="https://img.shields.io/badge/🐛_REPORT_BUG-FF4444?style=for-the-badge" alt="Report Bug" /></a>&nbsp;
+  <a href="https://github.com/Rishikesh-Kumar811/Assignment-2/issues"><img src="https://img.shields.io/badge/✨_REQUEST_FEATURE-8B5CF6?style=for-the-badge" alt="Request Feature" /></a>
+</p>
+
 </div>
 
 ---
 
-## 📸 Visuals & Live Demo
-*(Placeholder: Insert a beautiful screenshot or GIF of the UI here to demonstrate the application working in a production environment).*
+## 🛠️ Tech Stack
 
-> **[View Live Demo](https://assignment-2-one-lime.vercel.app) | [Report Bug](https://github.com/Rishikesh-Kumar811/Assignment-2/issues) | [Request Feature](https://github.com/Rishikesh-Kumar811/Assignment-2/issues)**
-
----
-
-## ✨ Key Features & UI/UX Highlights
-This repository is built with a strict focus on modern web standards, beautiful responsive design, and high performance.
-
-- **Clean Code Standards**: Strictly linted HTML/CSS demonstrating professional formatting.
-- **Maintainable Architecture**: CSS is split into logical blocks mirroring standard BEM methodology.
-- **Cross-Browser Compatibility**: Fallbacks and vendor prefixes ensuring UI stability across Safari, Chrome, and Firefox.
-
-## 🧠 Architecture & Technical Logic
-**Why this stack?**  
-Acts as a blueprint for foundational web standards, emphasizing readability, maintainability, and structural integrity.
-
-The project emphasizes a clean directory structure, separation of concerns, and maintainable styles, serving as a testament to scalable frontend engineering.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css" alt="Tech Stack" />
+</p>
 
 ---
 
-## 🚀 Quick Start (DevEx)
-To get this project running locally on your machine in seconds:
+## ✨ Features
 
-```bash
-# 1. Clone the repository
+- 🔍 **Schema.org JSON-LD** — Embedded Product microdata enabling Google Rich Result snippets (Price: $560 USD)
+- 🔗 **Open Graph & Twitter Cards** — Full social metadata for beautiful link previews on every platform
+- 🎨 **SVG Sprite Icon System** — Inline `<svg><defs>` icon repository for crisp scalable rendering
+- 🛍️ **Interactive Product UI** — Size selector, color chips, quantity control & gallery layout
+- 📐 **BEM-Styled CSS Architecture** — Modular, maintainable class naming convention throughout
+
+---
+
+## 🏗️ Architecture
+
+> SEO & Schema-engineered product architecture with BEM-styled modular CSS and semantic HTML5 document structure.
+
+---
+
+## 🚀 Quick Start
+
+\`\`\`bash
+# Clone the repository
 git clone https://github.com/Rishikesh-Kumar811/Assignment-2.git
 
-# 2. Navigate into the directory
-cd Assignment-2
-
-# 3. Install dependencies (if applicable)
-npm install
-
-# 4. Start the development server
-npm run dev 
-# (Or simply open index.html in your browser for pure HTML/JS projects)
-```
+# Open in browser
+cd Assignment-2 && open index.html
+\`\`\`
 
 ---
 
 <div align="center">
-  <i>Engineered with focus and precision.</i> <br/>
-  <br/>
-  <img src="https://badgen.net/badge/Built%20with/%20/ff69b4?icon=heart&labelColor=ff69b4" height="36" />
+
+**[⬆ Back to Top](#e-commerce-product-page)**
+
+<br/>
+
+<img src="https://img.shields.io/badge/BUILT_WITH-❤️-ff69b4?style=for-the-badge" alt="Built with Love" />
+
 </div>
